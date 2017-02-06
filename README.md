@@ -14,8 +14,8 @@ J'ai réalisé cette intégration pour vous montrer les compétences que j'ai ac
 
 ##Quelques fonctionnalités :
 * Header : Des sous menus apparaissent au survole de "mon compte". Le menu change en version tablette et mobile.
-* Slider : Défilement auto toutes les 4 secondes avec une barre de chargement. Navigation avec les flèches ou les dots. Le slider s'adapte automatiquement en fonction du nombre d'images. L'objet que j'ai créé pour ce slider peut être réulisé facilement sur un autre projet.
+* Slider : Défilement auto toutes les 4 secondes avec une barre de chargement. Navigation avec les flèches ou les dots. Le slider s'adapte automatiquement en fonction du nombre d'images. L'objet que j'ai créé pour ce slider peut être réutilisé facilement sur un autre projet.
 * Block 3 : Des animations réalisées en CSS3 se déclenchent au survole des images.
-* Lego Star-Wars : La hauteur de l'iframe s'adapte automatiquement à la largeur même en réduisant la fenêtre. L'objet que j'ai créé pour cette fonctionnalité peut être réulisé facilement sur un autre projet.
+* Lego Star-Wars : La hauteur de l'iframe s'adapte automatiquement à la largeur même en réduisant la fenêtre. L'objet que j'ai créé pour cette fonctionnalité peut être réutilisée facilement sur un autre projet.
 * Licences : La disposition des blocks change en version tablette et mobile.
 * Formulaire : Le formulaire s'envoie seulement si les champs "email", "nom" et "message" sont remplis. Des Regex vérifient les champs "email" et "nom".
